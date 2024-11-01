@@ -1,0 +1,15 @@
+{
+  "name": "minecraft",
+  "version": "1.0.0",
+  "main": "const mineflayer = require('mineflayer').js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mineflayer": "^4.23.0"
+  }
+}
